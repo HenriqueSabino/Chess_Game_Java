@@ -1,9 +1,9 @@
 {
     "configurations": [{
         "type": "java",
-        "name": "CodeLens (Launch) - App",
+        "name": "CodeLens (Launch) - Program",
         "request": "launch",
-        "mainClass": "application.App",
+        "mainClass": "application.Program",
         "projectName": "ChessGame",
         "console": "externalTerminal"
     }]
